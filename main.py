@@ -1,6 +1,6 @@
 from amount import amount_extra
-from pizzaPrice import pizza_price
+from pizzaPrice import p_price
 if __name__ == '__main__':
     amount_extra()
-    pizza_price()
+    p_price()
 

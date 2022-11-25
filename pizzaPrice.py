@@ -1,5 +1,5 @@
 import random
-def pizza_price(size):
+def p_price(size):
     pizza_size = ['S', 'M', 'L', 'XL']
     pizza_Pice = [40, 50, 60, 75]
     price = pizza_Pice[pizza_size.index(size)]
