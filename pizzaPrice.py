@@ -8,6 +8,7 @@ def p_price(size):
 
 delivery_costB = 20
 delivery_costO = 60
+amount_extra = 0
 age = int(input("please enter the age: "))
 game = input("do you want play a game?\n if you play you will have discont y/n")
 destination = input("enter your destination: ")
